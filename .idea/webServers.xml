@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28598804-98d2-4426-acc6-9aebd993802f" name="medischevoetzorg" url="https://medischevoetzorg.eke.be">
+        <fileTransfer host="medischevoetzorg.eke.be" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

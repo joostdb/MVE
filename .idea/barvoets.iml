@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/plugin-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/twig-view" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/imagine/imagine" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/laminas/laminas-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/laminas/laminas-httphandlerrunner" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/laminas/laminas-zendframework-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/brick/varexporter" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/jasny/twig-extensions" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/league/container" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/bake" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/cakephp" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/josegonzalez/cakephp-upload" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/cakephp-codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/josegonzalez/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/chronos" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/justinrainbow/json-schema" />
+      <excludeFolder url="file://$MODULE_DIR$/BV/vendor/cakephp/debug_kit" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
